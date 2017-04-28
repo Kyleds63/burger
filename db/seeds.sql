@@ -1,3 +1,3 @@
-INSERT INTO burgers (burger_name, devoured) VALUES ('In N Out',true);
-INSERT INTO burgers (burger_name, devoured) VALUES ('Five Guys',true);
-INSERT INTO burgers (burger_name, devoured) VALUES ('P. Terrys',true);
+INSERT INTO burgers (burger_name) VALUES ('In N Out');
+INSERT INTO burgers (burger_name) VALUES ('Five Guys');
+INSERT INTO burgers (burger_name) VALUES ('P. Terrys');
